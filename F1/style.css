@@ -1,0 +1,141 @@
+body{
+    background-color: darkgray;
+
+}
+
+.main{
+    padding: 2%;
+    margin: 6%;
+    background-color: white;
+}
+
+img{
+    padding: 0%;
+    margin: 0%;
+    width: 100%;
+}
+
+h1 {
+    border-style: solid;
+    border-top: 0px;
+    border-right: 0px;
+    border-width: 8px;
+    border-bottom-width: 1px;
+    background-image: url(imagens/bandeira1.jpg);
+    background-repeat: no-repeat;
+    background-position: right;
+    border-color: darkgray;
+    font-size: medium;
+}
+
+p{
+    padding: auto;
+    line-height: 25px;
+    text-indent: 1.5em;
+}
+
+.a {
+    padding: 20px;
+    margin: 25px;
+    text-align: justify;
+    line-height: 25px;
+    font-size: 20px;
+    list-style-type: none;
+    background-image: url(imagens/fundo-f1.jpg);
+    background-repeat: no-repeat;
+    background-position-x: center;
+}
+
+.c{
+    padding-bottom: 75px;
+    list-style-type: decimal;
+    background-image: url(imagens/fundo-f1.jpg);
+    background-repeat: no-repeat;
+    background-position-x: center;
+    background-position-y: center;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+}
+
+a:hover{
+    color: yellow;
+}
+
+a:visited{
+    color: yellow;
+}
+
+.ru{
+    list-style-image: url(imagens/reinounido.png);
+}
+.it{
+    list-style-image: url(imagens/italia.png)
+}
+.al{
+    list-style-image: url(imagens/alemanha.png);
+}
+.fr{
+    list-style-image: url(imagens/franca.png);
+}
+.jp{
+    list-style-image: url(imagens/japao.png);
+}
+.au{
+    list-style-image: url(imagens/austria.png);
+}
+.in{
+    list-style-image: url(imagens/india.png);
+}
+
+.ru, .it, .al,.fr, .jp, .au, .in{
+    border-bottom-width: 1px;
+    border-style: dashed;
+    border-top: 0px;
+    border-left: 0px;
+    border-right: 0px;
+}
+
+.post{
+    padding-right: 750px;
+
+}
+
+.content-4, .content-3{
+    background-image: url(imagens/fundo-f1.jpg);
+    background-repeat: no-repeat;
+    background-position-x: center;
+    background-position-y: center;
+
+}
+table{
+    border-collapse: collapse;
+}
+
+tr{
+    text-align: left;
+}
+
+td{
+    padding-right: 75px;
+    border-style: dashed;
+    border-width: 1px;
+    border-left: 0px;
+    border-right: 0px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
